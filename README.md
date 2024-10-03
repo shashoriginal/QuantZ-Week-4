@@ -26,7 +26,8 @@
 6. [Visualizations](#6-visualizations)
 7. [Best Practices](#7-best-practices)
 8. [Conclusion](#8-conclusion)
-
+9. [License](#9-License)
+10. [Author](#10-Author)
 ---
 
 ## 1. Introduction
@@ -178,4 +179,16 @@ To maximize performance in both games, consider the following best practices:
 ## 8. Conclusion
 
 The Week 4 games—**Portfolio Pursuit** and **Algorithmic Arena**—are designed to deepen players' understanding of investment management and trading strategies. Through dynamic market simulations and interactive strategy testing, players can hone their decision-making skills and develop a nuanced understanding of risk and return in quantitative finance. Enjoy the games and may your virtual portfolios and algorithms outperform the markets!
+
+
+## 9. License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code, provided proper attribution is given to the author.
+
+## 10. Author
+
+**Shashank Raj**  
+Developer and Quantitative Finance Enthusiast  
+President and Controller at QuantZ, Michigan State University  
+
 
